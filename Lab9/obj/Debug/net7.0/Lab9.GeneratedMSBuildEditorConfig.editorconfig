@@ -1,0 +1,77 @@
+is_global = true
+build_property.TargetFramework = net7.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Lab9
+build_property.RootNamespace = Lab9
+build_property.ProjectDir = F:\ITI Intership\ASP.net Mvc\Day09\Lab9\Lab9\
+build_property.RazorLangVersion = 7.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = F:\ITI Intership\ASP.net Mvc\Day09\Lab9\Lab9
+build_property._RazorSourceGeneratorDebug = 
+
+[F:/ITI Intership/ASP.net Mvc/Day09/Lab9/Lab9/Pages/Dept/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRGVwdFxDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/ITI Intership/ASP.net Mvc/Day09/Lab9/Lab9/Pages/Dept/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRGVwdFxEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/ITI Intership/ASP.net Mvc/Day09/Lab9/Lab9/Pages/Dept/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRGVwdFxEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/ITI Intership/ASP.net Mvc/Day09/Lab9/Lab9/Pages/Dept/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRGVwdFxFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/ITI Intership/ASP.net Mvc/Day09/Lab9/Lab9/Pages/Dept/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRGVwdFxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/ITI Intership/ASP.net Mvc/Day09/Lab9/Lab9/Pages/Emp/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRW1wXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/ITI Intership/ASP.net Mvc/Day09/Lab9/Lab9/Pages/Emp/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRW1wXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/ITI Intership/ASP.net Mvc/Day09/Lab9/Lab9/Pages/Emp/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRW1wXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/ITI Intership/ASP.net Mvc/Day09/Lab9/Lab9/Pages/Emp/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRW1wXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/ITI Intership/ASP.net Mvc/Day09/Lab9/Lab9/Pages/Emp/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRW1wXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/ITI Intership/ASP.net Mvc/Day09/Lab9/Lab9/Pages/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/ITI Intership/ASP.net Mvc/Day09/Lab9/Lab9/Pages/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/ITI Intership/ASP.net Mvc/Day09/Lab9/Lab9/Pages/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/ITI Intership/ASP.net Mvc/Day09/Lab9/Lab9/Pages/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/ITI Intership/ASP.net Mvc/Day09/Lab9/Lab9/Pages/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-rcbxc9dxrt
